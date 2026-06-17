@@ -1,0 +1,62 @@
+[05-Sep-2024 12:32:50 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/index.php on line 98
+[05-Sep-2024 12:32:50 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/index.php on line 135
+[05-Sep-2024 15:50:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/index.php on line 98
+[05-Sep-2024 15:50:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/index.php on line 135
+[05-Sep-2024 16:31:05 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/index.php on line 98
+[05-Sep-2024 16:31:05 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/index.php on line 135
+[05-Sep-2024 16:31:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/index.php on line 98
+[05-Sep-2024 16:31:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/index.php on line 135
+[05-Sep-2024 16:33:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/index.php on line 98
+[05-Sep-2024 16:36:05 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/index.php on line 98
+[05-Sep-2024 16:36:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/report.php on line 98
+[05-Sep-2024 16:39:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/report.php on line 118
+[05-Sep-2024 16:40:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/report.php on line 118
+[02-Oct-2024 11:31:50 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/index.php on line 98
+[02-Oct-2024 11:45:12 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/report.php on line 118
+[03-Oct-2024 14:44:53 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/index.php on line 98
+[03-Oct-2024 14:45:02 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/report.php on line 118
+[09-Oct-2024 11:28:08 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/index.php on line 98
+[10-Oct-2024 11:33:10 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/index.php on line 98
+[13-Nov-2024 12:34:37 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/index.php on line 98
+[22-Nov-2024 16:51:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/index.php on line 98
+[07-Feb-2025 11:59:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/index.php on line 98
+[07-Feb-2025 12:00:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/index.php on line 98
+[07-Feb-2025 12:00:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/report.php on line 118
+[13-Feb-2025 16:23:27 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/index.php on line 98
+[05-Jun-2025 17:33:01 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/auth_check.php on line 2
+[05-Jun-2025 17:33:01 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/index.php on line 105
+[05-Jun-2025 17:34:17 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/auth_check.php on line 2
+[05-Jun-2025 17:34:17 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/include/left_sidebar.php on line 2
+[05-Jun-2025 17:34:17 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/auth_check.php on line 2
+[05-Jun-2025 17:34:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: stud_id in /home2/zharfanc/utv.domei.io/vendor/index.php on line 105
+[05-Jun-2025 17:37:23 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/zharfanc/utv.domei.io/vendor/index.php on line 14
+[05-Jun-2025 17:37:23 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/include/left_sidebar.php on line 2
+[05-Jun-2025 17:37:23 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/auth_check.php on line 2
+[05-Jun-2025 17:38:10 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/include/left_sidebar.php on line 2
+[05-Jun-2025 17:38:10 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/auth_check.php on line 2
+[05-Jun-2025 17:38:26 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/include/left_sidebar.php on line 2
+[05-Jun-2025 17:38:26 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/auth_check.php on line 2
+[05-Jun-2025 17:39:03 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/include/left_sidebar.php on line 2
+[05-Jun-2025 17:39:03 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/auth_check.php on line 2
+[05-Jun-2025 17:39:12 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/include/left_sidebar.php on line 2
+[05-Jun-2025 17:39:12 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/auth_check.php on line 2
+[05-Jun-2025 17:39:21 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/include/left_sidebar.php on line 2
+[05-Jun-2025 17:39:21 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/auth_check.php on line 2
+[05-Jun-2025 17:41:23 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/auth_check.php on line 2
+[05-Jun-2025 17:41:23 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/include/left_sidebar.php on line 2
+[05-Jun-2025 17:41:23 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/auth_check.php on line 2
+[05-Jun-2025 17:42:30 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/auth_check.php on line 2
+[05-Jun-2025 17:42:30 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/include/left_sidebar.php on line 2
+[05-Jun-2025 17:42:30 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/auth_check.php on line 2
+[05-Jun-2025 17:43:06 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/auth_check.php on line 2
+[05-Jun-2025 17:43:06 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/include/left_sidebar.php on line 2
+[05-Jun-2025 17:43:06 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/auth_check.php on line 2
+[05-Jun-2025 17:44:47 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/auth_check.php on line 2
+[05-Jun-2025 17:44:47 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/include/left_sidebar.php on line 2
+[05-Jun-2025 17:44:47 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/auth_check.php on line 2
+[10-Oct-2025 10:44:28 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/auth_check.php on line 2
+[10-Oct-2025 10:44:28 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/include/left_sidebar.php on line 2
+[10-Oct-2025 10:44:28 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/auth_check.php on line 2
+[10-Oct-2025 10:44:54 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/auth_check.php on line 2
+[10-Oct-2025 10:44:54 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/include/left_sidebar.php on line 2
+[10-Oct-2025 10:44:54 Asia/Kuala_Lumpur] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/zharfanc/utv.domei.io/vendor/auth_check.php on line 2

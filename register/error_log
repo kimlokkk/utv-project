@@ -1,0 +1,82 @@
+[27-Aug-2024 16:20:26 Asia/Kuala_Lumpur] PHP Warning:  include(include/meta.php): failed to open stream: No such file or directory in /home2/zharfanc/utv.domei.io/register/index.php on line 12
+[27-Aug-2024 16:20:26 Asia/Kuala_Lumpur] PHP Warning:  include(): Failed opening 'include/meta.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/zharfanc/utv.domei.io/register/index.php on line 12
+[27-Aug-2024 16:20:26 Asia/Kuala_Lumpur] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /home2/zharfanc/utv.domei.io/register/index.php on line 378
+[27-Aug-2024 16:20:26 Asia/Kuala_Lumpur] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/zharfanc/utv.domei.io/register/index.php on line 378
+[13-Nov-2024 15:24:56 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare btn_RegisterConsultant() (previously declared in /home2/zharfanc/utv.domei.io/function/function.php:220) in /home2/zharfanc/utv.domei.io/function/function.php on line 387
+[13-Nov-2024 15:24:58 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare btn_RegisterConsultant() (previously declared in /home2/zharfanc/utv.domei.io/function/function.php:220) in /home2/zharfanc/utv.domei.io/function/function.php on line 387
+[13-Nov-2024 15:25:02 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare btn_RegisterConsultant() (previously declared in /home2/zharfanc/utv.domei.io/function/function.php:220) in /home2/zharfanc/utv.domei.io/function/function.php on line 387
+[16-Apr-2025 11:14:33 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: ptj_address in /home2/zharfanc/utv.domei.io/function/function.php on line 398
+[16-Apr-2025 11:14:33 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: ptj_address_2 in /home2/zharfanc/utv.domei.io/function/function.php on line 399
+[16-Apr-2025 11:18:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: ptj_address in /home2/zharfanc/utv.domei.io/function/function.php on line 401
+[16-Apr-2025 11:18:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: ptj_address_2 in /home2/zharfanc/utv.domei.io/function/function.php on line 402
+[25-Apr-2025 10:24:47 Asia/Kuala_Lumpur] PHP Warning:  date() expects at least 1 parameter, 0 given in /home2/zharfanc/utv.domei.io/function/function.php on line 439
+[16-May-2025 15:44:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: business_nature in /home2/zharfanc/utv.domei.io/function/function.php on line 586
+[12-Jun-2025 09:45:46 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: employment_position in /home2/zharfanc/utv.domei.io/function/function.php on line 409
+[16-Jun-2025 10:28:42 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: business_nature in /home2/zharfanc/utv.domei.io/function/function.php on line 591
+[16-Jun-2025 10:29:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: business_nature in /home2/zharfanc/utv.domei.io/function/function.php on line 591
+[10-Jul-2025 14:22:01 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: full_name in /home2/zharfanc/utv.domei.io/function/function.php on line 534
+[10-Jul-2025 14:22:02 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: staff_id in /home2/zharfanc/utv.domei.io/function/function.php on line 615
+[10-Jul-2025 14:22:02 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: uitm_state_permanent in /home2/zharfanc/utv.domei.io/function/function.php on line 620
+[10-Jul-2025 14:22:02 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: ptj in /home2/zharfanc/utv.domei.io/function/function.php on line 621
+[10-Jul-2025 14:22:02 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: campus_address_permanent in /home2/zharfanc/utv.domei.io/function/function.php on line 622
+[10-Jul-2025 14:22:02 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: uitm_state_current in /home2/zharfanc/utv.domei.io/function/function.php on line 623
+[10-Jul-2025 14:22:02 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: campus_address_current in /home2/zharfanc/utv.domei.io/function/function.php on line 624
+[10-Jul-2025 14:25:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: staff_id in /home2/zharfanc/utv.domei.io/function/function.php on line 615
+[10-Jul-2025 14:25:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: uitm_state_permanent in /home2/zharfanc/utv.domei.io/function/function.php on line 620
+[10-Jul-2025 14:25:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: ptj in /home2/zharfanc/utv.domei.io/function/function.php on line 621
+[10-Jul-2025 14:25:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: campus_address_permanent in /home2/zharfanc/utv.domei.io/function/function.php on line 622
+[10-Jul-2025 14:25:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: uitm_state_current in /home2/zharfanc/utv.domei.io/function/function.php on line 623
+[10-Jul-2025 14:25:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: campus_address_current in /home2/zharfanc/utv.domei.io/function/function.php on line 624
+[11-Nov-2025 15:06:27 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: business_nature in /home2/zharfanc/utv.domei.io/function/function.php on line 720
+[12-Nov-2025 17:03:59 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: business_nature in /home2/zharfanc/utv.domei.io/function/function.php on line 720
+[12-Nov-2025 17:06:28 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: business_nature in /home2/zharfanc/utv.domei.io/function/function.php on line 720
+[12-Nov-2025 17:06:43 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: business_nature in /home2/zharfanc/utv.domei.io/function/function.php on line 720
+[29-Dec-2025 14:38:34 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "gender" in /home2/zharfanc/utv.domei.io/function/function.php on line 542
+[29-Dec-2025 14:38:34 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "citizenship" in /home2/zharfanc/utv.domei.io/function/function.php on line 543
+[29-Dec-2025 14:38:34 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "employment_position" in /home2/zharfanc/utv.domei.io/function/function.php on line 544
+[10-Feb-2026 12:01:56 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "business_nature" in /home2/zharfanc/utv.domei.io/function/function.php on line 720
+[10-Feb-2026 12:01:56 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'business_nature' in 'field list' in /home2/zharfanc/utv.domei.io/function/function.php:765
+Stack trace:
+#0 /home2/zharfanc/utv.domei.io/function/function.php(765): mysqli_query()
+#1 /home2/zharfanc/utv.domei.io/function/function.php(47): btn_RegisterVendor()
+#2 /home2/zharfanc/utv.domei.io/register/vendor-register.php(4): include('/home2/zharfanc...')
+#3 {main}
+  thrown in /home2/zharfanc/utv.domei.io/function/function.php on line 765
+[10-Feb-2026 12:02:06 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "business_nature" in /home2/zharfanc/utv.domei.io/function/function.php on line 720
+[10-Feb-2026 12:02:06 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'business_nature' in 'field list' in /home2/zharfanc/utv.domei.io/function/function.php:765
+Stack trace:
+#0 /home2/zharfanc/utv.domei.io/function/function.php(765): mysqli_query()
+#1 /home2/zharfanc/utv.domei.io/function/function.php(47): btn_RegisterVendor()
+#2 /home2/zharfanc/utv.domei.io/register/vendor-register.php(4): include('/home2/zharfanc...')
+#3 {main}
+  thrown in /home2/zharfanc/utv.domei.io/function/function.php on line 765
+[10-Feb-2026 12:46:22 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "business_nature" in /home2/zharfanc/utv.domei.io/function/function.php on line 720
+[10-Feb-2026 12:46:22 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'business_nature' in 'field list' in /home2/zharfanc/utv.domei.io/function/function.php:765
+Stack trace:
+#0 /home2/zharfanc/utv.domei.io/function/function.php(765): mysqli_query()
+#1 /home2/zharfanc/utv.domei.io/function/function.php(47): btn_RegisterVendor()
+#2 /home2/zharfanc/utv.domei.io/register/vendor-register.php(4): include('/home2/zharfanc...')
+#3 {main}
+  thrown in /home2/zharfanc/utv.domei.io/function/function.php on line 765
+[15-Apr-2026 16:14:33 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $conn in /home2/zharfanc/utv.domei.io/register/get_bank_list.php on line 16
+[15-Apr-2026 16:14:33 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home2/zharfanc/utv.domei.io/register/get_bank_list.php:16
+Stack trace:
+#0 /home2/zharfanc/utv.domei.io/register/get_bank_list.php(16): mysqli_query()
+#1 {main}
+  thrown in /home2/zharfanc/utv.domei.io/register/get_bank_list.php on line 16
+[15-Apr-2026 16:14:54 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $conn in /home2/zharfanc/utv.domei.io/register/get_bank_list.php on line 16
+[15-Apr-2026 16:14:54 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home2/zharfanc/utv.domei.io/register/get_bank_list.php:16
+Stack trace:
+#0 /home2/zharfanc/utv.domei.io/register/get_bank_list.php(16): mysqli_query()
+#1 {main}
+  thrown in /home2/zharfanc/utv.domei.io/register/get_bank_list.php on line 16
+[15-Apr-2026 18:58:03 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "ptj" in /home2/zharfanc/utv.domei.io/function/function.php on line 481
+[23-Apr-2026 10:09:35 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "ptj" in /home2/zharfanc/utv.domei.io/function/function.php on line 481
+[23-Apr-2026 10:12:08 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "ptj" in /home2/zharfanc/utv.domei.io/function/function.php on line 481
+[23-Apr-2026 10:44:22 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "ptj" in /home2/zharfanc/utv.domei.io/function/function.php on line 481
+[23-Apr-2026 11:45:42 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "ptj" in /home2/zharfanc/utv.domei.io/function/function.php on line 481
+[23-Apr-2026 16:22:51 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "ptj" in /home2/zharfanc/utv.domei.io/function/function.php on line 481
+[07-May-2026 08:39:45 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "ptj" in /home2/zharfanc/utv.domei.io/function/function.php on line 481
+[13-May-2026 13:05:59 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "ptj" in /home2/zharfanc/utv.domei.io/function/function.php on line 481
+[14-May-2026 09:35:55 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "ptj" in /home2/zharfanc/utv.domei.io/function/function.php on line 481
+[14-May-2026 09:37:38 Asia/Kuala_Lumpur] PHP Warning:  Undefined array key "ptj" in /home2/zharfanc/utv.domei.io/function/function.php on line 481

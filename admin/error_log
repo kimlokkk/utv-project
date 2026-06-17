@@ -1,0 +1,6 @@
+[13-Jun-2026 12:39:11 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'zharfanc_webdev'@'localhost' to database 'zharfanc_utv' in /home2/zharfanc/utv.domei.io/db_connect/db_connect.php:2
+Stack trace:
+#0 /home2/zharfanc/utv.domei.io/db_connect/db_connect.php(2): mysqli_connect()
+#1 /home2/zharfanc/utv.domei.io/admin/index.php(4): include('/home2/zharfanc...')
+#2 {main}
+  thrown in /home2/zharfanc/utv.domei.io/db_connect/db_connect.php on line 2
